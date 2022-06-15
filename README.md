@@ -8,9 +8,9 @@ Mój cel: **stać się ekspertką w zakresie dostarczania klientom produktów na
   
 Mój plan:
 * rozwijać dokumentację testerską:
- * przypadki testowe
- * scenariusze testowe
- * zgłoszenia błędów
+   * przypadki testowe
+   * scenariusze testowe
+   * zgłoszenia błędów
 * rozwinąć znajomość narzędzi: Jira, TestLink
 * Rozwinąć znajomość narzędzi do automtyzowania testów: Selenium IDE  
 * poznać zagadnienia z dziedziny UX, UI
