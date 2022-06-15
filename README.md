@@ -12,9 +12,9 @@ Mój plan:
    * scenariusze testowe
    * zgłoszenia błędów
 * rozwinąć znajomość narzędzi: Jira, TestLink
-* Rozwinąć znajomość narzędzi do automtyzowania testów: Selenium IDE  
+* rozwinąć znajomość narzędzi do automtyzowania testów: Selenium IDE  
 * poznać zagadnienia z dziedziny UX, UI
-* Dokształcać się na bieżąco - reagować na potrzeby rynku
+* dokształcać się na bieżąco - reagować na potrzeby rynku
 
 # narzędzia
 * Jira
@@ -25,8 +25,8 @@ Mój plan:
 * [ux design masterclass](https://uxdesignmasterclass.com/) w trakcie
 
 # czytam
-* [Blog](https://remigiuszbednarczyk.pl/) Remigiusza Bednarczyka
-* [Blog](https://www.wyszkolewas.com.pl/) Waldemara Szafrańca
+* [blog](https://remigiuszbednarczyk.pl/) Remigiusza Bednarczyka
+* [blog](https://www.wyszkolewas.com.pl/) Waldemara Szafrańca
 
 # dokumentacja dot. testowania
 * [praca dyplomowa](https://drive.google.com/file/d/1wpgCicm8FohLwDF1bIW5I6rgAK4WHGjO/view?usp=sharing) - wskazanie kluczowych elementów, o które należy uzupełnić proces testowania oprogramowania ze względu na rozbudowę serwisu WWW o aplikację mobilną
