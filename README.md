@@ -3,7 +3,9 @@ portfolio testerskie
 # o mnie
 Nazywam się Sylwia Żygłowicz-Mocek, jestem początkującą testerką orogramowania. Ukończyłam studia podyplomowe Tester Oprogramowania na WSIiZ w Rzeszowie.
 Przez ostatnie kilka lat pracowałam oferując produkty serwisu internetowego - stąd zainteresowanie tematem jakości oprogramowania. Poza tym jestem inżynierem geofizyki (AGH w Krakowie), ukończyłam szkołę muzyczną I i II sopnia w klasie skrzypiec.  
+  
 Mój cel: **stać się ekspertką w zakresie dostarczania klientom produktów najwyższej jakości, spełniających ich potrzeby**  
+  
 Mój plan:
 * rozwijać dokumentację testerską:
  * przypadki testowe
