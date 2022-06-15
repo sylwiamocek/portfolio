@@ -23,8 +23,8 @@ Mój plan:
 * [ux design masterclass](https://uxdesignmasterclass.com/) w trakcie
 
 # czytam
-[Blog](https://remigiuszbednarczyk.pl/) Remigiusza Bednarczyka
-[Blog](https://www.wyszkolewas.com.pl/) Waldemara Szafrańca
+* [Blog](https://remigiuszbednarczyk.pl/) Remigiusza Bednarczyka
+* [Blog](https://www.wyszkolewas.com.pl/) Waldemara Szafrańca
 
 # dokumentacja dot. testowania
 * praca dyplomowa
