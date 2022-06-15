@@ -22,11 +22,11 @@ Mój plan:
 * [Tester Oprogramowania - studia podyplomowe](https://podyplomowe.wsiz.pl/studia-podyplomowe/tester-oprogramowania/) ukończone w 2021
 * [ux design masterclass](https://uxdesignmasterclass.com/) w trakcie
 
-#czytam
+# czytam
 [Blog](https://remigiuszbednarczyk.pl/) Remigiusza Bednarczyka
 [Blog](https://www.wyszkolewas.com.pl/) Waldemara Szafrańca
 
-#dokumentacja dot. testowania
+# dokumentacja dot. testowania
 * praca dyplomowa
 * zgłoszenia błędów w Frasanio.pl
 * przypadki testowe
