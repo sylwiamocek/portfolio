@@ -30,5 +30,5 @@ Mój plan:
 
 # dokumentacja dot. testowania
 * praca dyplomowa
-* zgłoszenia błędów w Frasanio.pl
+* [zgłoszenia błędów w Fasanio.pl](https://drive.google.com/file/d/1nnmDVydzavFtE6A8tVG8NXrEm_xFxd3K/view?usp=sharing)
 * przypadki testowe
