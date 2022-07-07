@@ -31,4 +31,5 @@ Mój plan:
 # dokumentacja dot. testowania
 * [praca dyplomowa](https://drive.google.com/file/d/1wpgCicm8FohLwDF1bIW5I6rgAK4WHGjO/view?usp=sharing) - wskazanie kluczowych elementów, o które należy uzupełnić proces testowania oprogramowania ze względu na rozbudowę serwisu WWW o aplikację mobilną
 * [zgłoszenia błędów w Fasanio.pl](https://drive.google.com/file/d/1rikmbsElJXu_1YYclO7nA6sYeveB_0hc/view?usp=sharing)
+* [zgłoszenie błędu w formularzu rekrutacyjnym firmy X](https://drive.google.com/file/d/1jaCY3mQI7J3N-PyKxBaVZi9sNzzTqlcC/view?usp=sharing)
 * przypadki testowe
